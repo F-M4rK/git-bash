@@ -1,2 +1,6 @@
 git clone
 git config
+.cd
+..cd
+git push
+git pull
