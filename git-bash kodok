@@ -4,3 +4,8 @@ git config
 ..cd
 git push
 git pull
+git init
+git add
+ls -la
+git config --global user.email
+git config --global user.name
